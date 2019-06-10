@@ -41,11 +41,11 @@
     },
     {
         "ParameterKey":"LocalOverrideTest",
-        "ParameterValue":"override"
+        "ParameterValue":"success"
     },
     {
         "ParameterKey":"GlobalOverrideTest",
-        "ParameterValue":"override"
+        "ParameterValue":"success"
     },
     {
         "ParameterKey":"LicenseContentTest",
